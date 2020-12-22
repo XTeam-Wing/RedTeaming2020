@@ -14,7 +14,7 @@ xx
 按照时间顺序我把2020年星球大家讨论的知识点共享出来,希望会有帮助.
 知识不够体系,2021年会我每个月会细化标签,弄一个单独的网站进行共享.
 
-
+zsxq search:RedTeaming
 # RedTeaming - 2020-01-06
 `#Tools#`   `#c2#` <br>[GitHub+-+p3nt4/Nuages:+A+modular+C2+framework](https://github.com/p3nt4/Nuages)
 
@@ -511,7 +511,7 @@ windows PE学习：[windows+PE学习+|+九世的博客](https://422926799.github
 
 
 # RedTeaming - 2020-07-05
-[http://8sec.cc/index.php/archives/409/](http://8sec.cc/index.php/archives/409/)<br>一键Dump lsass+logonpassowrd<br>分析上次safekatz并实现<br>顺便更新了下他的mimikatz<br>在项目中这样还是能省不少事情。<br>密码：123lmskc
+[http://8sec.cc/index.php/archives/409/](http://8sec.cc/index.php/archives/409/)<br>一键Dump lsass+logonpassowrd<br>分析上次safekatz并实现<br>顺便更新了下他的mimikatz<br>在项目中这样还是能省不少事情。<br>密码：密码加入星球后查看
 ![](https://images.zsxq.com/FtZChgw7weLbQRrzu2271ouyeOwY?imageMogr2/auto-orient/thumbnail/800x/format/jpg/blur/1x0/quality/75&e=1612108799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:lV6ZbYvVNVWgZl2EAkX_0jIobtY=)
 ```
 Wing: 牛批，省事。这下子。
@@ -1337,7 +1337,7 @@ lengyi: 过几天估计就 GG 了，毕竟上了 VT
 
 
 # RedTeaming - 2020-09-02
-傀儡进程优化-武器化利用<br>[http://8sec.cc/index.php/archives/419/](http://8sec.cc/index.php/archives/419/)<br><br><br><br><br><br>123qweasd1111111
+傀儡进程优化-武器化利用<br>[http://8sec.cc/index.php/archives/419/](http://8sec.cc/index.php/archives/419/)<br><br><br><br><br><br>密码加入星球后查看
 ![](https://images.zsxq.com/Fluv5eMhId5MEUcCVjpBct9EPV-o?imageMogr2/auto-orient/thumbnail/800x/format/jpg/blur/1x0/quality/75&e=1612108799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:_chPkXkElyHbf2w0wB2rWdc4qS0=)
 
 # RedTeaming - 2020-09-03
@@ -2201,6 +2201,3 @@ Wing: 需要整理下
 裤衩哥: 你试试那个 sitetru 什么什么的那个
 Wing: 爬一会被检测到账号就会被强制退出
 ```
-
-加入我们吧
-zsxq搜索RedTeaming
