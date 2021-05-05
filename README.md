@@ -15,6 +15,10 @@ xx
 知识不够体系,2021年会我每个月会细化标签,弄一个单独的网站进行共享.
 
 zsxq search:RedTeaming
+2021 comming soon
+![](https://i.loli.net/2021/05/05/B1IRz6QxlkPegpM.jpg)
+
+
 # RedTeaming - 2020-01-06
 `#Tools#`   `#c2#` <br>[GitHub+-+p3nt4/Nuages:+A+modular+C2+framework](https://github.com/p3nt4/Nuages)
 
